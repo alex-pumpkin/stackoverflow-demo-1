@@ -1,0 +1,1 @@
+An example for [this Stackoverflow question](https://stackoverflow.com/questions/55227086/spring-flux-and-the-async-annotation/55255301)
